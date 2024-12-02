@@ -1,4 +1,4 @@
-# 🍎 Hello, I'm [Your Name]
+# Hello, I'm Owen
 
 Welcome to my digital workspace — thoughtfully designed for innovation, simplicity, and functionality. ✨
 
