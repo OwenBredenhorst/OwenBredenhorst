@@ -13,9 +13,6 @@ Fluent in:
 - Swift, Python, JavaScript  
 - React, Next.js, Node.js  
 - UI/UX tools (Figma, Sketch)
-
- **Minimalist Designer**  
-I believe less is more — both in code and design. Focused on building experiences that feel seamless.
 ---
 
 ## **Core Principles**
